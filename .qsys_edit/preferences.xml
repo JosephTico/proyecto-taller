@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="All Interfaces">
+  <columns>
+   <connections preferredWidth="127" />
+   <irq preferredWidth="34" />
+   <export preferredWidth="256" />
+   <inputclock preferredWidth="292" />
+   <name preferredWidth="310" />
+  </columns>
+ </systemtable>
+ <library
+   expandedCategories="Project,Library/University Program/Audio &amp; Video/Video,Library/University Program,Library,Library/University Program/Audio &amp; Video" />
+ <window width="1942" height="1042" x="-11" y="-11" />
+ <hdlexample language="VERILOG" />
+</preferences>
